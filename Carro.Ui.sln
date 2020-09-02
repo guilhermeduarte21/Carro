@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carro.Ui", "Carro.Ui\Carro.Ui.csproj", "{5B920441-23F7-425D-9FFC-80B807948C08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carro.Api", "Carro.Api\Carro.Api.csproj", "{96F1AB61-5E8A-409C-B1BF-5E6189796751}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B920441-23F7-425D-9FFC-80B807948C08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B920441-23F7-425D-9FFC-80B807948C08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B920441-23F7-425D-9FFC-80B807948C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B920441-23F7-425D-9FFC-80B807948C08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96F1AB61-5E8A-409C-B1BF-5E6189796751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F1AB61-5E8A-409C-B1BF-5E6189796751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F1AB61-5E8A-409C-B1BF-5E6189796751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F1AB61-5E8A-409C-B1BF-5E6189796751}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45F6FC7E-9113-4BF9-90EE-3310B1EEDAB8}
+	EndGlobalSection
+EndGlobal
